@@ -1,1 +1,2 @@
-# EODPMiSE
+# eodp
+EODP main repository
